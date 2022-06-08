@@ -1,4 +1,2 @@
 # Gestion-Datos
-# Gestion-Datos
-# Gestion-Datos
-# Gestion-Datos
+Proyecto creado con Java y MySQL 
